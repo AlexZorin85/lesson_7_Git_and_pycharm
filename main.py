@@ -3,4 +3,5 @@ print('Привет')
 num = 4
 print(num)
 
-input()
+num_1 = int(input())
+print(num_1)
